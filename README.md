@@ -33,7 +33,7 @@ for information on how we do:
 You can set up your dev environment with:
 
 ```sh
-git clone git@github.com:ethereum/<REPO_NAME>.git
+git clone git@github.com:vaporyco/<REPO_NAME>.git
 cd <REPO_NAME>
 virtualenv -p python3 venv
 . venv/bin/activate
